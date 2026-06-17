@@ -8,7 +8,6 @@
  
 See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
-
  
 ## Projektid
  
