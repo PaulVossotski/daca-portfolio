@@ -1,8 +1,8 @@
 # DACA Portfoolio
  
 **Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Paul Võssotski]
-**Algus:** [17.06.2026]
+**Osaleja:** Paul Võssotski
+**Algus:** 17.06.2026
  
 ## Kirjeldus
  
