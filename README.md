@@ -28,7 +28,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - **Visualiseerimine:** Power BI / Streamlit (tulemas...)
 - **Tööriistad:** Git, GitHub, VS Code
  
-## Kontaktc
+## Kontakt
  
 - **GitHub:** [github.com/paulvossotski](https://github.com/PaulVossotski)
 - **Email:** vossotskipaul@gmail.com
