@@ -1,6 +1,6 @@
 # Week 1 — SQL Basics
 
-**Status:** 🚧 In progress
+**Status:** ✅ Done
 **Topic:** First contact with the UrbanStyle database using single-table SQL
 (`SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, `COUNT`).
 

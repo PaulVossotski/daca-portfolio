@@ -12,7 +12,11 @@
 
 ## 👋 About me
 
-I've always been drawn to data, and I've already worked with it in practice — but now I've decided to start properly, documenting my journey step by step here in this portfolio. Through the DACA program I'm building real analytics skills from the ground up: SQL, Python, data cleaning, and visualization — and turning each week's work into a project worth showing.
+I'm a career-changer learning data analysis from the ground up — SQL, Python,
+data cleaning, visualization, and the analyst *mindset*: turning business
+questions into data answers. This repo is my live, growing portfolio.
+
+*(Replace this with 2–3 sentences about you: your background and why you joined DACA.)*
 
 ---
 
@@ -34,8 +38,8 @@ and `web_logs`.
 | Week | Topic | Key business question | Status |
 |------|-------|-----------------------|--------|
 | [0](./week-0/) | Onboarding & tooling | Is my environment ready to do real analysis? | ✅ Done |
-| [1](./week-1/) | SQL Basics | What does UrbanStyle actually sell, and where? | 🚧 In progress |
-| 2 | SQL Cleaning | How bad is the data, and how do I fix it? | ⏳ Upcoming |
+| [1](./week-1/) | SQL Basics | What does UrbanStyle actually sell, and where? | ✅ Done |
+| [2](./week-2/) | SQL Cleaning | How bad is the data, and how do I fix it? | ✅ Done |
 | 3 | SQL JOINs | Which customers buy sustainable products? | ⏳ Upcoming |
 | 4 | SQL Aggregation | What are the real sales trends by month/channel? | ⏳ Upcoming |
 | 5–6 | Visualization (Power BI) | How do I tell this story on one dashboard? | ⏳ Upcoming |
