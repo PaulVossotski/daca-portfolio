@@ -19,13 +19,13 @@ modified — this report identifies the issues; running the actual `UPDATE` /
 
 | Issue | Count found |
 |-------|------------:|
-| Duplicate emails (same email, >1 row) | ... |
-| Duplicate phones | ... |
-| Missing first_name | ... |
-| Missing email | ... |
-| Missing phone | ... |
-| Distinct city spellings | ... |
-| Cities with more than one spelling | ... |
+| Duplicate emails (same email, >1 row) | 130 |
+| Duplicate phones | 150 |
+| Missing first_name | 0 |
+| Missing email | 380 |
+| Missing phone | 0 |
+| Distinct city spellings | 54 |
+| Cities with more than one spelling | 12 |
 
 ## What I found
 
