@@ -15,22 +15,23 @@ part was the **customers** domain.
 
 ## What I did
 
-Always worked on a **test copy** of the customers table first (never on the
-original), then:
+This week's work was **data-quality analysis** — finding and measuring the
+problems in the customers table with SELECT-based queries. No rows were changed
+yet; the actual `UPDATE` / `DELETE` fix is the next step.
 
 - Detected duplicate customer records by **email** and by **phone**
 - Ran a NULL overview across `first_name`, `email`, and `phone` to size the gaps
-- Standardized city names with `TRIM` + `INITCAP`, and measured how many
-  different original spellings collapsed into each cleaned city
-- Documented every change with before/after numbers
+- Tested city standardization with `TRIM` + `INITCAP`, and measured how many
+  different original spellings map to each real city
+- Documented every issue with concrete counts
 
 **Tool:** SQL (PostgreSQL / Supabase).
 
 ## What it shows
 
 <!-- TODO: one headline sentence with your real numbers, e.g.
-"The customers table had N duplicate rows and M missing emails; after cleaning
-it went from X to Y usable records." -->
+"The customers table has N duplicate emails, M missing emails, and K different
+spellings of the same cities — all quantified and ready to be cleaned." -->
 
 Full before/after breakdown: [`individual/week2_customers_report.md`](./individual/week2_customers_report.md).
 

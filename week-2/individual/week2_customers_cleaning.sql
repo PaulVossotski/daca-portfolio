@@ -1,6 +1,6 @@
 --============================================================
 --Week 2 · SQL Cleaning · Role B — Customer data
---Domain: customers | Practice on a test copy, then apply to original
+--Domain: customers | Data-quality analysis (detection only — no rows modified)
 --============================================================
 
 
@@ -68,7 +68,7 @@ FROM customers;
 
 
 --------------------------------------------------------------
--- 3. CITY FORMAT STANDARDIZATION
+-- 3. CITY FORMAT — STANDARDIZATION CHECK (preview only, no UPDATE)
 --------------------------------------------------------------
 
 --See every distinct raw spelling of city (reveals the mess)
