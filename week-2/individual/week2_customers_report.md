@@ -11,11 +11,11 @@ modified — this report identifies the issues; running the actual `UPDATE` /
 
 ## Summary
 
-<!-- TODO: 1–2 sentences on the overall state of the customer data — how clean or messy it is. -->
+A data-quality analysis of UrbanStyle's customer table surfaced three issues worth attention before the board meeting. Contact data is incomplete — 380 customers have no email on file — and there is meaningful duplication: 130 rows reuse an email that already exists, and 150 share a phone number. City names are also inconsistent, with 54 distinct spellings covering far fewer real cities. First names and phone numbers, by contrast, are fully populated. The data is usable, but these issues would distort any customer count, location report, or email campaign until cleaned.
 
 ## Findings
 
-<!-- TODO: replace the dots with your real numbers. Numbers talk — write "412", not "many". -->
+
 
 | Issue | Count found |
 |-------|------------:|
@@ -40,8 +40,8 @@ modified — this report identifies the issues; running the actual `UPDATE` /
 
 ## Biggest surprise
 
-<!-- TODO: 1–2 sentences. -->
+The scale of missing emails: 380 customers have none at all, while phone numbers and first names are 100% complete. That imbalance suggests email was collected inconsistently at signup — a process problem, not just a data problem — and it directly limits how many customers UrbanStyle can actually reach by email.
 
 ## Recommendation to Toomas
 
-<!-- TODO: 1–2 sentences — which issue is most urgent, and the next step (run the cleaning). -->
+Priority one is de-duplication before the board numbers are pulled: 130 duplicate emails and 150 duplicate phones inflate the real customer count, so the headline figure is currently overstated. Second, standardize city names (INITCAP(TRIM(city))) — 12 cities are recorded under more than one spelling, which quietly breaks any regional breakdown. The 380 missing emails need a business decision (chase them, or exclude from email campaigns) rather than a quick fix, and are worth flagging to Kristi as a marketing-reach limitation. None of these block the meeting, but the duplicates should be resolved before any customer totals are presented.
