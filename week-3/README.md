@@ -49,4 +49,6 @@ Tallinn × [category] segment leads revenue." -->
 
 ## Reflection
 
-<!-- TODO: how is JOIN different from Excel VLOOKUP? What surprised you? -->
+The clearest shift this week was seeing JOIN as a more powerful VLOOKUP. In Excel, VLOOKUP pulls one matching value into a row and quietly breaks or returns an error when there's no match. A SQL JOIN connects whole tables at once, and — more importantly — it lets me choose what happens to the non-matches: INNER JOIN drops them, LEFT JOIN keeps them and marks the gap as NULL.
+The most useful surprise was the LEFT JOIN + WHERE ... IS NULL pattern. It felt backwards at first — deliberately looking for the missing side of a join — but it's exactly how you find the interesting negatives: customers who registered and never bought, and products that never sold. Those "empty" rows turned out to be the most actionable output of the whole week.
+I also learned to sanity-check row counts. A JOIN can return more rows than the original table (when keys repeat) or fewer (when INNER JOIN silently drops unmatched rows), so I now check the count against what I expect instead of trusting the result blindly.
