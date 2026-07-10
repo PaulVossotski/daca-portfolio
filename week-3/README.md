@@ -34,8 +34,7 @@ list of top customers, a win-back list of never-purchased customers by city, a
 catalog cleanup list of unsold products, and the city/category segment with the
 highest revenue.
 
-<!-- TODO: add your headline numbers, e.g. "N customers never bought; the
-Tallinn × [category] segment leads revenue." -->
+
 
 ---
 
@@ -45,7 +44,7 @@ Tallinn × [category] segment leads revenue." -->
 |------|-----------|
 | [`individual/week3_step0_apply_cleaning.sql`](./individual/week3_step0_apply_cleaning.sql) | Step 0 — apply Week 2 cleaning to the original tables (DELETE / UPDATE) |
 | [`individual/week3_joins.sql`](./individual/week3_joins.sql) | INNER / LEFT / three-table joins answering Anna's questions |
-| [`individual/week3_campaign_report.md`](./individual/week3_campaign_report.md) | Short report answering Anna's four campaign questions |
+
 
 ## Reflection
 
