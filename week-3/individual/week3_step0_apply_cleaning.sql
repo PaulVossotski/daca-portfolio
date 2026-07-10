@@ -29,5 +29,5 @@ WHERE city IS NOT NULL;
 
 
 --Verify the results
-SELECT COUNT(*) AS sales_rows FROM sales;              -- expected: ~10,118
-SELECT COUNT(DISTINCT city) AS cities FROM customers;  -- expected: 12
+SELECT COUNT(*) AS sales_rows FROM sales;              
+SELECT COUNT(DISTINCT city) AS cities FROM customers;
