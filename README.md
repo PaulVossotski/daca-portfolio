@@ -40,7 +40,7 @@ and `web_logs`.
 | [0](./week-0/) | Onboarding & tooling | Is my environment ready to do real analysis? | ✅ Done |
 | [1](./week-1/) | SQL Basics | What does UrbanStyle actually sell, and where? | ✅ Done |
 | [2](./week-2/) | SQL Cleaning | How bad is the data, and how do I fix it? | ✅ Done |
-| 3 | SQL JOINs | Which customers buy sustainable products? | ⏳ Upcoming |
+| [3](./week-3/) | SQL JOINs | Which customers buy sustainable products? | ✅ Done |
 | 4 | SQL Aggregation | What are the real sales trends by month/channel? | ⏳ Upcoming |
 | 5–6 | Visualization (Power BI) | How do I tell this story on one dashboard? | ⏳ Upcoming |
 | 7–8 | Python (pandas) | Can I reproduce the analysis in code? | ⏳ Upcoming |

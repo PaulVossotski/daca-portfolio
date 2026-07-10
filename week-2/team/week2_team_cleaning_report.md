@@ -10,7 +10,7 @@ Our team cleaned UrbanStyle's database domain by domain. My contribution was the
 | C | Products | <!-- teammate --> |
 | D | Cross-validation | <!-- teammate --> |
 
-**Team's combined report / board:** (https://github.com/kolgalys-max/urbanstyle-team-3/tree/main/week-2)
+**Team's combined report / board:** <!-- TODO: add link to your team's shared repo or doc -->
 
 ---
 
