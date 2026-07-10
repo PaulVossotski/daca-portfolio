@@ -70,7 +70,7 @@ catalog, and pause reordering in the accessory subcategories that aren't moving.
 At 3.3% of the catalog the problem is small but concentrated — fixing one
 category solves most of it.
 
-*Team's combined output:* <!-- add link to your team's shared slide/doc -->
+*Team's combined output:* https://github.com/kolgalys-max/urbanstyle-team-3/tree/main/week-3
 
 ## Reflection
 
