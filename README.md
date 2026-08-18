@@ -44,7 +44,7 @@ and `web_logs`.
 | [3](./week-3/) | SQL JOINs | Which customers buy sustainable products? | ✅ Done |
 | [4](./week-4/) | SQL Aggregation | What are the real sales trends by month/channel? | ✅ Done |
 | [5](./week-5/) | Visualization — design | How do I tell this story on one dashboard? | ✅ Done |
-| 6 | Visualization — storytelling | How do I make it investor-ready? | ⏳ Upcoming |
+| [6](./week-6/) | Visualization — storytelling | How do I make it investor-ready? | ✅ Done |
 | 7–8 | Python (pandas) | Can I reproduce the analysis in code? | ⏳ Upcoming |
 | 9–10 | Portfolio & Career | Is this portfolio interview-ready? | ⏳ Upcoming |
 
