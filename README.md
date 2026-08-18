@@ -42,7 +42,8 @@ and `web_logs`.
 | [2](./week-2/) | SQL Cleaning | How bad is the data, and how do I fix it? | ✅ Done |
 | [3](./week-3/) | SQL JOINs | Which customers buy sustainable products? | ✅ Done |
 | [4](./week-4/) | SQL Aggregation | What are the real sales trends by month/channel? | ✅ Done |
-| 5–6 | Visualization (Power BI) | How do I tell this story on one dashboard? | ⏳ Upcoming |
+| [5](./week-5/) | Visualization — design | How do I tell this story on one dashboard? | ✅ Done |
+| 6 | Visualization — storytelling | How do I make it investor-ready? | ⏳ Upcoming |
 | 7–8 | Python (pandas) | Can I reproduce the analysis in code? | ⏳ Upcoming |
 | 9–10 | Portfolio & Career | Is this portfolio interview-ready? | ⏳ Upcoming |
 
