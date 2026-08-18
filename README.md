@@ -12,11 +12,12 @@
 
 ## 👋 About me
 
-I'm a career-changer learning data analysis from the ground up — SQL, Python,
-data cleaning, visualization, and the analyst *mindset*: turning business
+I spent my career in a bank's sales department, where I was always the one who
+was good with numbers. I moved into data analysis because it's the work I
+actually want to do. Through the DACA programme I'm building the skills from the
+ground up — SQL, Python, data cleaning, and visualization — turning business
 questions into data answers. This repo is my live, growing portfolio.
 
-*(Replace this with 2–3 sentences about you: your background and why you joined DACA.)*
 
 ---
 
